@@ -11,7 +11,7 @@ I have passion for learning exciting stuff.
 * I'm currently learning **Spring Framework**.
 * I'm looking to cooperate on **Open Source** projects.
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/d5fMI9ftgQiGzoZoB9/giphy.gif?raw=true" width="300" height="150" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/d5fMI9ftgQiGzoZoB9/giphy.gif?raw=true" width="600" height="200" />
 
 
 ### Languages and Tools
@@ -39,6 +39,7 @@ I have passion for learning exciting stuff.
 
 ### Contact Me
 [LinkedIn](https://www.linkedin.com/in/muhammet-şeramet/)
+||
 [Twitter](https://twitter.com/muhammetseramet)
 
 
